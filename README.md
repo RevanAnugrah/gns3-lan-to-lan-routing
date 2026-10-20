@@ -13,7 +13,7 @@
 
 <br>
 
-<img width="950" alt="GNS3 Multi-Vendor Topology" src="./images/topologi-gns3.png" />
+<img width="705" height="584" alt="r" src="https://github.com/user-attachments/assets/442e2650-6f74-4bdb-946b-4d027f837ce7" />
 
 <sub>Full multi-vendor topology running on GNS3 Local Server & Remote GNS3 VM</sub>
 
@@ -50,7 +50,7 @@ Kedua router MikroTik dihubungkan melalui jalur **Point-to-Point WAN (`192.168.1
 
 ### GNS3 Workspace View
 
-<img width="950" alt="GNS3 Topology View" src="./images/topologi-gns3.png" />
+<img width="705" height="584" alt="r" src="https://github.com/user-attachments/assets/73da61a4-f1ba-41d3-8cf7-b65158b7fc47" />
 
 ### Logical View (Mermaid Diagram)
 
